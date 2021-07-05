@@ -1,0 +1,5 @@
+mongo "mongodb+srv://cluster0.r0twu.mongodb.net/myFirstDatabase" --username admin-hemanth
+
+
+
+admin123
